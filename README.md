@@ -2,6 +2,10 @@
 
 A web application that allows users to upload research papers in PDF format, summarizes the content, and generates an audio summary for easy listening.
 
+## Live Demo
+
+Check out the live version of the application here: [Research-to-Podcast](https://research-to-podcast.onrender.com)
+
 ## Features
 
 - **PDF Upload**: Upload research papers in PDF format.
